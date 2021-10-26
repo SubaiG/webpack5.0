@@ -1,3 +1,3 @@
-export function(a, b) {
-  return a + b
+export function(a, b, c) {
+  return a + b + c
 }
